@@ -1,0 +1,28 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "Repository for voting app. Context is that a team of developers are electing a new president and have started work on the front-end, but need help creating the back end. First exposure to MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmlawton15/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmlawton15/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/mmlawton15/u-develop-it#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
