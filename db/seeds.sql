@@ -16,3 +16,8 @@ VALUES
   ('Montague', 'Summers', 3, 1),
   ('Octavia', 'Butler', 3, 1),
   ('Unica', 'Zurn', NULL, 1);
+
+
+-- db.sql creates the database
+-- schema.sql fills that database with tables
+-- seeds.sql fills those tables with data
